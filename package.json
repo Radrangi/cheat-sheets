@@ -21,7 +21,7 @@
     "dotenv": "^4.0.0",
     "gulp": "^3.9.1",
     "gulp-git": "^2.2.0",
-    "gulp-shell": "^0.6.3",
+    "gulp-shell": "^0.8.0",
     "run-sequence": "^1.2.2"
   }
 }
